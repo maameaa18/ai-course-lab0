@@ -1,0 +1,11 @@
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+Python Version: 3.12.13
+Operating System: Darwin 25.2.0
+NumPy: Installed, version 2.4.6
+Pandas: Installed, version 3.0.3
+Matplotlib: Installed, version 3.10.9
+Scikit-learn: Not installed
+Virtual Environment: Active (/Users/maame/Desktop/REPO/LAB1/.venv)
+==================================================
